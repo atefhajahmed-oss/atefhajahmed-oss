@@ -251,13 +251,6 @@ An interactive labyrinth game project implementing game logic, navigation and pl
 
 # 📚 Other Projects & Repositories
 
-## 🌐 Portfolio Website
-
-My personal portfolio website showcasing my projects, skills, experience and engineering background.
-
-🔗 **[View Repository →](https://github.com/atefhajahmed-oss/atefhajahmed.io)**
-
----
 
 ## 🧑‍🎓 Training Management Application
 
