@@ -25,7 +25,7 @@
 
 # 🚀 About Me
 
-I'm a **third-year Embedded Systems Engineering student** passionate about designing and developing intelligent hardware-software systems.
+I'm a **Embedded Systems Engineering student** passionate about designing and developing intelligent hardware-software systems.
 
 My main areas of interest are:
 
@@ -39,14 +39,6 @@ My main areas of interest are:
 - 🖥️ Embedded Applications & Dashboards
 
 I enjoy developing complete systems, from **hardware design and microcontroller firmware** to **communication protocols, data processing, intelligent algorithms and user interfaces**.
-
-### 🎯 Current Goal
-
-I'm currently looking for a **PFE / Final-Year Internship opportunity** in:
-
-**Embedded Systems • IoT • Robotics • Intelligent Systems • Automotive Embedded Systems**
-
----
 
 # 🧑‍💻 Technical Skills
 
